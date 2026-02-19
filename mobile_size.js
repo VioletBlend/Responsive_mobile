@@ -1,0 +1,1 @@
+javascript:(function(){  var url = location.href;  window.open(url, "_blank", "width=375,height=800,menubar=no,toolbar=no,location=no,status=no");})();
